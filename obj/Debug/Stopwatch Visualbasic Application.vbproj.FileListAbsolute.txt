@@ -1,0 +1,13 @@
+D:\Desktop\CODES VISUALSTUDIO\Stopwatch Visualbasic Application\obj\Debug\Stopwatch Visualbasic Application.vbproj.AssemblyReference.cache
+D:\Desktop\CODES VISUALSTUDIO\Stopwatch Visualbasic Application\obj\Debug\Stopwatch Visualbasic Application.vbproj.SuggestedBindingRedirects.cache
+D:\Desktop\CODES VISUALSTUDIO\Stopwatch Visualbasic Application\obj\Debug\Stopwatch_Visualbasic_Application.frmStopWatch.resources
+D:\Desktop\CODES VISUALSTUDIO\Stopwatch Visualbasic Application\obj\Debug\Stopwatch_Visualbasic_Application.Resources.resources
+D:\Desktop\CODES VISUALSTUDIO\Stopwatch Visualbasic Application\obj\Debug\Stopwatch Visualbasic Application.vbproj.GenerateResource.cache
+D:\Desktop\CODES VISUALSTUDIO\Stopwatch Visualbasic Application\obj\Debug\Stopwatch Visualbasic Application.vbproj.CoreCompileInputs.cache
+D:\Desktop\CODES VISUALSTUDIO\Stopwatch Visualbasic Application\bin\Debug\Stopwatch Visualbasic Application.exe.config
+D:\Desktop\CODES VISUALSTUDIO\Stopwatch Visualbasic Application\bin\Debug\Stopwatch Visualbasic Application.exe
+D:\Desktop\CODES VISUALSTUDIO\Stopwatch Visualbasic Application\bin\Debug\Stopwatch Visualbasic Application.pdb
+D:\Desktop\CODES VISUALSTUDIO\Stopwatch Visualbasic Application\bin\Debug\Stopwatch Visualbasic Application.xml
+D:\Desktop\CODES VISUALSTUDIO\Stopwatch Visualbasic Application\obj\Debug\Stopwatch Visualbasic Application.exe
+D:\Desktop\CODES VISUALSTUDIO\Stopwatch Visualbasic Application\obj\Debug\Stopwatch Visualbasic Application.xml
+D:\Desktop\CODES VISUALSTUDIO\Stopwatch Visualbasic Application\obj\Debug\Stopwatch Visualbasic Application.pdb
